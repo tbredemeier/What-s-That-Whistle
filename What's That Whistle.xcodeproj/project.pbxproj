@@ -14,6 +14,7 @@
 		AE8C5B0E1F87EDAE005D9699 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AE8C5B0C1F87EDAE005D9699 /* LaunchScreen.storyboard */; };
 		AE8C5B191F87EDAE005D9699 /* What_s_That_WhistleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE8C5B181F87EDAE005D9699 /* What_s_That_WhistleTests.swift */; };
 		AE8C5B241F87EDAF005D9699 /* What_s_That_WhistleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE8C5B231F87EDAF005D9699 /* What_s_That_WhistleUITests.swift */; };
+		AE8C5B321F882547005D9699 /* RecordWhistleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE8C5B311F882547005D9699 /* RecordWhistleViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		AE8C5B1F1F87EDAF005D9699 /* What's That WhistleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "What's That WhistleUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AE8C5B231F87EDAF005D9699 /* What_s_That_WhistleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = What_s_That_WhistleUITests.swift; sourceTree = "<group>"; };
 		AE8C5B251F87EDAF005D9699 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AE8C5B311F882547005D9699 /* RecordWhistleViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordWhistleViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				AE8C5B031F87EDAE005D9699 /* AppDelegate.swift */,
 				AE8C5B051F87EDAE005D9699 /* ViewController.swift */,
+				AE8C5B311F882547005D9699 /* RecordWhistleViewController.swift */,
 				AE8C5B071F87EDAE005D9699 /* Main.storyboard */,
 				AE8C5B0A1F87EDAE005D9699 /* Assets.xcassets */,
 				AE8C5B0C1F87EDAE005D9699 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 			files = (
 				AE8C5B061F87EDAE005D9699 /* ViewController.swift in Sources */,
 				AE8C5B041F87EDAE005D9699 /* AppDelegate.swift in Sources */,
+				AE8C5B321F882547005D9699 /* RecordWhistleViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
